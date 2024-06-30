@@ -1,5 +1,5 @@
 # CONFIG NASPI DOCKER FILES
 
-## WIREGUARD - PIHOLE
+## [WIREGUARD - PIHOLE](wireguard-pihole/README.md)
 
-## PLEX
+## [PLEX](plex/README.md)
